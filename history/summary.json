@@ -4,18 +4,20 @@
     "url": "https://operack.com",
     "icon": "https://icons.duckduckgo.com/ip3/operack.com.ico",
     "slug": "operack-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 159,
     "timeDay": 159,
     "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "operack.ro",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/operack.ro.ico",
     "slug": "operack-ro",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 2
+      "2023-10-30": 181
     }
   },
   {
