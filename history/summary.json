@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 181,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/operack.ro.ico",
     "slug": "operack-ro",
     "status": "down",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 2
     }
+  },
+  {
+    "name": "missionmontessori.org",
+    "url": "https://missionmontessori.org",
+    "icon": "https://icons.duckduckgo.com/ip3/missionmontessori.org.ico",
+    "slug": "missionmontessori-org",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3264,
+    "timeDay": 3264,
+    "timeWeek": 3264,
+    "timeMonth": 3264,
+    "timeYear": 3264,
+    "dailyMinutesDown": {}
   }
 ]
