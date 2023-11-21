@@ -1,7 +1,7 @@
 url: https://missionmontessori.org
-status: up
-code: 200
-responseTime: 2885
-lastUpdated: 2023-11-20T23:03:43.110Z
+status: down
+code: 500
+responseTime: 1852
+lastUpdated: 2023-11-21T08:07:12.928Z
 startTime: 2023-10-30T17:00:44.826Z
 generator: Upptime <https://github.com/upptime/upptime>
