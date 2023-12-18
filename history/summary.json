@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/operack.com.ico",
     "slug": "operack-com",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 150,
-    "timeDay": 123,
-    "timeWeek": 129,
+    "uptimeYear": "99.97%",
+    "time": 149,
+    "timeDay": 88,
+    "timeWeek": 123,
     "timeMonth": 158,
-    "timeYear": 150,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2023-10-30": 24
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-17": 7,
+      "2023-12-18": 7,
+      "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -98,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2800,
-    "timeDay": 3011,
-    "timeWeek": 3094,
-    "timeMonth": 2895,
-    "timeYear": 2800,
+    "time": 2791,
+    "timeDay": 2310,
+    "timeWeek": 2972,
+    "timeMonth": 2868,
+    "timeYear": 2791,
     "dailyMinutesDown": {}
   }
 ]
