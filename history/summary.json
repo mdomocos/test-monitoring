@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-18": 6,
+      "2024-03-18": 638,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -184,17 +184,19 @@
     "url": "https://missionmontessori.org",
     "icon": "https://icons.duckduckgo.com/ip3/missionmontessori.org.ico",
     "slug": "missionmontessori-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2824,
-    "timeDay": 3120,
-    "timeWeek": 2894,
-    "timeMonth": 2858,
-    "timeYear": 2824,
-    "dailyMinutesDown": {}
+    "time": 2806,
+    "timeDay": 1655,
+    "timeWeek": 2556,
+    "timeMonth": 2770,
+    "timeYear": 2806,
+    "dailyMinutesDown": {
+      "2024-03-18": 0
+    }
   }
 ]
